@@ -16521,7 +16521,7 @@ RTG则是低声咕哝着，*我不在乎。随你怎么办吧。反正你死定�
 
 **ARES Ⅲ 太阳日****216**
 
-&gt; 记录抄本 – 水利电报交换机 – ESA马尔的摩中心 &lt;-&gt; ESA飞船AMICITAS
+&gt; 记录抄本 – 输水电报会话 – ESA马尔的摩中心 &lt;-&gt; ESA飞船AMICITAS
 
 &gt;
 
@@ -19577,7 +19577,7 @@ NASA宣布紧急疏散，不过我有几个认识的人邀请我到一个远在�
 
 **ARES Ⅲ 太阳日****251**
 
-&gt; 记录抄本 – 水利电报交换机 – ESA马尔的摩中心 &lt;-&gt; ESA飞船AMICITAS
+&gt; 记录抄本 – 输水电报会话 – ESA马尔的摩中心 &lt;-&gt; ESA飞船AMICITAS
 
 &gt;
 
@@ -20068,7 +20068,7 @@ Amicitas的机械存在再也回不到小马国了。但是这一小部分可以
 
 **ARES Ⅲ 太阳日****258**
 
-&gt; 记录抄本 – 水利电报交换机 – ESA马尔的摩中心 &lt;-&gt; ESA飞船AMICITAS
+&gt; 记录抄本 – 输水电报会话 – ESA马尔的摩中心 &lt;-&gt; ESA飞船AMICITAS
 
 &gt;
 
@@ -20581,7 +20581,7 @@ Amicitas的机械存在再也回不到小马国了。但是这一小部分可以
 
 **ARES Ⅲ 太阳日****268**
 
-&gt; 记录抄本 – 水利电报交换机 – ESA马尔的摩中心 &lt;-&gt; ESA飞船AMICITAS
+&gt; 记录抄本 – 输水电报会话 – ESA马尔的摩中心 &lt;-&gt; ESA飞船AMICITAS
 
 &gt;
 
@@ -21198,7 +21198,7 @@ Amicitas的机械存在再也回不到小马国了。但是这一小部分可以
 
 **ARES Ⅲ 太阳日286**
 
-&gt; 记录抄本 – 水利电报交换机 – ESA马尔的摩中心 &lt;-&gt; ESA飞船AMICITAS
+&gt; 记录抄本 – 输水电报会话 – ESA马尔的摩中心 &lt;-&gt; ESA飞船AMICITAS
 
 &gt;
 
@@ -23352,7 +23352,7 @@ NASA特别担忧的诸多问题之一是那些一次性的二氧化碳滤芯。�
 
 **ARES Ⅲ 太阳日322**
 
-&gt; 记录抄本 – 水利电报交换机 – ESA马尔的摩中心 &lt;-&gt; ESA飞船AMICITAS
+&gt; 记录抄本 – 输水电报会话 – ESA马尔的摩中心 &lt;-&gt; ESA飞船AMICITAS
 
 &gt;
 
@@ -23921,7 +23921,7 @@ MD。
 
 **ARES Ⅲ 太阳日332**
 
-&gt; 记录抄本 – 水利电报交换机 – ESA马尔的摩中心 &lt;–&gt; ESA飞船AMICITAS
+&gt; 记录抄本 – 输水电报会话 – ESA马尔的摩中心 &lt;–&gt; ESA飞船AMICITAS
 
 &gt;
 
@@ -33072,7 +33072,7 @@ MAV上首级与次级的那些燃料箱，燃料与氧化剂都留了一点额�
 
 **ARES Ⅲ 太阳日529**
 
-&gt; 记录抄本 – 水利电报交换机 – ESA马尔的摩中心 &lt;-&gt; ESA飞船AMICITAS
+&gt; 记录抄本 – 输水电报会话 – ESA马尔的摩中心 &lt;-&gt; ESA飞船AMICITAS
 
 &gt;
 
